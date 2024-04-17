@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.c36d2327.css",
-    "main.js": "/static/js/main.c9f0bc4a.js",
-    "index.html": "/index.html",
-    "main.c36d2327.css.map": "/static/css/main.c36d2327.css.map",
-    "main.c9f0bc4a.js.map": "/static/js/main.c9f0bc4a.js.map"
+    "main.css": "/editora-majuortec/static/css/main.c36d2327.css",
+    "main.js": "/editora-majuortec/static/js/main.700526ba.js",
+    "index.html": "/editora-majuortec/index.html",
+    "main.c36d2327.css.map": "/editora-majuortec/static/css/main.c36d2327.css.map",
+    "main.700526ba.js.map": "/editora-majuortec/static/js/main.700526ba.js.map"
   },
   "entrypoints": [
     "static/css/main.c36d2327.css",
-    "static/js/main.c9f0bc4a.js"
+    "static/js/main.700526ba.js"
   ]
 }
